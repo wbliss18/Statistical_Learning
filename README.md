@@ -27,7 +27,7 @@ Using the bootstrap method to manually find regression estimates.
 HW7:
 Applying a neural network to classify images through pixels.
 
-Final Project: 
+Final Project - Linear vs. Logistic Regression: A Study on Low Birth Weight: 
 For this project, we will apply linear and logistic regression to the dataset. With each type of regression, we
 will arrive at a model. We will use each model to try to predict the outcome (low birth weight or not) based
 on the woman’s medical features.
